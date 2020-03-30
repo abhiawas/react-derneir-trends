@@ -1,0 +1,31 @@
+#customBtn {
+  width: 240px;
+  height: 48px;
+  letter-spacing: 0.5px;
+  line-height: 50px;
+  font-size: 15px;
+  background-color: white;
+  color: #6495Ed;
+  text-transform: uppercase;
+  font-family: 'Open Sans';
+  font-weight: bolder;
+  border: 1px solid #6495ED;
+  cursor: pointer;
+  }
+
+  #customBtn:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+  }
+  span.icon {
+    background-image: url('../../assests/google-icon.JPG');
+    background-size: 53px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+  }
+
+  
